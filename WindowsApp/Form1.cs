@@ -15,6 +15,7 @@ namespace WindowsApp
     public partial class Form1 : Form
     {
         public Form1()
+            ///hi
         {
             InitializeComponent();
         }
@@ -40,7 +41,7 @@ namespace WindowsApp
             programs.Add("Bachelor of Science in Computer Science");
             programs.Add("Bachelor of Science in Information Technology");
             programs.Add("Bachelor of Science in Information Systems");
-            programs.Add("Bachelor of Science in Computer Engineering");
+            programs.Add("Bachelor of Science in Computer EngineeringSs");
             
             foreach (string program in programs) 
             {
